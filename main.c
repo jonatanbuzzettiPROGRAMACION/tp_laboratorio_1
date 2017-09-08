@@ -24,7 +24,7 @@ int main()
         printf("5- Calcular la division (A/B)=%.3f\n", div);
         printf("6- Calcular la multiplicacion (A*B)=%.3f\n", mult);
         printf("7- Calcular el factorial (A!)=%d\n", facto);
-        printf("8- Calcular todas las operacione\n");
+        printf("8- Calcular todas las operaciones\n");
         printf("9- Salir\n");
         scanf("%d",&opcion);
 
@@ -123,6 +123,6 @@ int main()
         }
 
 
-    return 0;
-}
+
+}   return 0;
 }
