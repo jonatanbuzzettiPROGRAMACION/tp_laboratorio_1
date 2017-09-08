@@ -6,3 +6,15 @@
 
 1504871284 c:\users\alumno\desktop\123\funciones.h
 
+1504886850 source:c:\users\jony\desktop\tpnumero1\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1504886850 c:\users\jony\desktop\tpnumero1\funciones.h
+
+1504887537 source:c:\users\jony\desktop\tpnumero1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
