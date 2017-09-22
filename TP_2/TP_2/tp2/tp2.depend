@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1506025059 source:c:\users\jony\desktop\tp_2\tp2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1461846544 c:\users\jony\desktop\tp_2\tp2\funciones.h
+
